@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328533415225",
+    "firebase_url": "https://halisaha-50758-default-rtdb.firebaseio.com",
+    "project_id": "halisaha-50758",
+    "storage_bucket": "halisaha-50758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328533415225:android:44ef6a80d660033d23c4e8",
+        "android_client_info": {
+          "package_name": "com.example.halisahaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328533415225-1jnud9ah2allms1npnphh9br0ct38bqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoTY3_Bc1RA-F3rkcXF1eDKWd32FRmWII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328533415225-1jnud9ah2allms1npnphh9br0ct38bqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
